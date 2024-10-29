@@ -1,4 +1,4 @@
-<h1 align="center">Hellow World!, I am Giovanne</h1>
+<h1 align="center">Hellow World!</h1>
 <h3 align="center">Systems Analyst & Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giovannepds7" alt="giovannepds7" /></a> </p>
