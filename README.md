@@ -5,7 +5,7 @@
 </h1>
 
 <section align="center">
-<img src="Github_presentation/carbon.png" alt="Texto alternativo" width="85%" height="85%"/>
+<img src="Github_presentation/carbon.png" alt="Texto alternativo" width="100%"/>
 </section>
 
 ## 💻 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔
