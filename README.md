@@ -4,9 +4,26 @@
   </a>
 </h1>
 
-<section align="center">
-<img src="Github_presentation/carbon.png" alt="Texto alternativo" width="100%"/>
-</section>
+```java
+public class Presentation {
+    private String name;
+    private int age;
+    private String studying;
+    private String hobby;
+
+    public Presentation() {
+        this.name = "Giovanne Pagano dos Santos";
+        this.age = 18;
+        this.studying = "tests with Java ☕";
+        this.hobby = "train 🏋";
+    }
+
+    public static void main(String[] args) {
+        Presentation presentation = new Presentation();
+    }
+}
+
+```
 
 ## 💻 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔
 
