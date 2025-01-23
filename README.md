@@ -86,5 +86,6 @@ public class Presentation {
 </p>
 
 ## 🥇 𝑩𝒂𝒅𝒈𝒆
-
-![Alura Badge](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
+<p align="center">
+<img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" alt="Alura Badge" width="160" height="160"/>
+</p>
