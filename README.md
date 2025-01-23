@@ -84,3 +84,7 @@ public class Presentation {
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
+
+## 🥇 𝑩𝒂𝒅𝒈𝒆
+
+![Alura Badge](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
