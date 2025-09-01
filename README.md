@@ -14,8 +14,8 @@ public class Presentation {
     public Presentation() {
         this.name = "Giovanne Pagano dos Santos";
         this.age = 18;
-        this.studying = "information systems";
-        this.hobby = "train 🏋";
+        this.studying = "CyberSecurity";
+        this.hobby = "Train 🏋";
     }
 
     public static void main(String[] args) {
