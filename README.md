@@ -70,6 +70,9 @@ public class Presentation {
   </a>
   <br>
   <br>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=idea" alt="intelliJ" width="40" height="40"/>
+  </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
   </a>
