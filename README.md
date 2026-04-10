@@ -14,7 +14,7 @@ public class Presentation {
     public Presentation() {
         this.name = "Giovanne Pagano dos Santos";
         this.age = 19;
-        this.studying = "CyberSecurity";
+        this.studying = "CyberSecurity - Blue Team";
         this.hobby = "Train 🏋";
     }
 
