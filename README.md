@@ -43,7 +43,7 @@ public class Presentation {
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/giovanne-pagano" target="_blank">
+  <a href="https://www.linkedin.com/in/giovanne-pagano/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
     <a href="mailto:giovanne3282@gmail.com" target="_blank">
