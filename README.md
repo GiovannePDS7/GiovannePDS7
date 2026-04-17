@@ -32,7 +32,7 @@ public class Presentation {
 </p>
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,idea,java,spring,maven,express,vscode,js,html,css,angular,ts,py,mysql,nodejs,postman,linux,kali&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,idea,java,spring,maven,express,js,html,css,angular,ts,py,mysql,postgres,nodejs,postman,linux,kali&perline=10" />
 </a>
 </p>
 
