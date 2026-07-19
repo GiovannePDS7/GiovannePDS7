@@ -9,7 +9,7 @@ $ whoami
 > giovanne@cybersecurity
 
 $ cat profile.txt
-> Learning: SC-900 · AI900 · LetsDefend
+> Learning: SC-900 · AI900 · AZ900 · LetsDefend
 > Focus: Information Security | GRC | DLP
 > Frameworks:  NIST CSF · ISO 27001 · CIS Controls
 > References:  OWASP Top 10 · MITRE ATT&CK · CIA Triad
